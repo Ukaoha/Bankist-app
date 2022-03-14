@@ -1,9 +1,11 @@
 # Bankist App 
 Learnt JavaScript Array methods, Dates and time .
 All logins are static as i used static arrays for login  :
-user: cu , pin : 1111 
-user: SI , pin: 2222
-user: Gj , pin: 3333
-user: AF, pin: 4444
+<ul>
+<li>user: cu , pin : 1111 </li>
+<li>user: SI , pin: 2222</li>
+<li>user: Gj , pin: 3333</li>
+<li>user: AF, pin: 4444</li>
+</ul>
 here is the hosted site 
 [Bankist](https://ukaoha.github.io/Bankist-app)
