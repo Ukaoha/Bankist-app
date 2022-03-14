@@ -1,7 +1,6 @@
-#Bankist App 
-An app for transactions 
+# Bankist App 
 Learnt JavaScript Array methods, Dates and time .
-All logins are static as i used static arrays , to login use :
+All logins are static as i used static arrays for login  :
 user: cu , pin : 1111 
 user: SI , pin: 2222
 user: Gj , pin: 3333
